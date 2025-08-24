@@ -2,7 +2,7 @@
 document.getElementById("clickBtn").addEventListener("click", function (e) {
   // e.preventDefault() ---> btn-reload solution
   e.preventDefault();
-  const Number = 1234567890;
+  const Number = 12345678910;
   const pin = 1234;
   const MobileNumber = document.getElementById("Inp-Number").value;
   const PinNumber = document.getElementById("Inp-Pin").value;
